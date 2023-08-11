@@ -1,0 +1,21 @@
+nest_id,date,time,num_host_egg,host_nest_outcome,host_species,site
+j21,2022-06-01,11:42:00,2,complete sucess,YEWA,dwf
+j16,2022-06-03,09:52:00,2,complete sucess,YEWA,dwf
+j18,2022-06-03,10:54:00,1,total failure,RWBL,dwf
+j23,2022-06-03,11:04:00,2,total failure,RWBL,dwf
+j27,2022-06-04,13:22:00,4,complete sucess,RWBL,dwf
+a43,2022-06-07,12:24:00,1,complete sucess,YEWA,dwf
+a56,2022-06-07,13:49:00,1,partial sucess,YEWA,dwf
+a83,2022-06-09,14:35:00,1,total failure,RWBL,dwf
+a91,2022-06-09,10:04:00,1,total failure,YEWA,dwf
+j46,2022-06-09,11:56:00,1,total failure,YEWA,dwf
+e17,2022-06-11,15:15:00,2,total failure,RWBL,dwf
+e53,2022-06-11,09:15:00,2,total failure,YEWA,pcc
+e62,2022-06-11,12:15:00,2,total failure,RWBL,dwf
+a122,2022-06-12,14:57:00,2,partial sucess,YEWA,dwf
+a98,2022-06-12,13:07:00,1,partial sucess,YEWA,dwf
+e25,2022-06-12,15:30:00,1,total failure,YEWA,pcc
+j64,2022-06-13,13:04:00,1,total failure,YEWA,dwf
+e105,2022-06-19,10:50:00,1,total failure,YEWA,pcc
+e110,2022-06-20,09:20:00,4,total failure,YEWA,pcc
+e117,2022-06-20,14:50:00,3,total failure,RWBL,dwf

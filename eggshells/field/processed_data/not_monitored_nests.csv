@@ -1,0 +1,12 @@
+master_number,nest_id,host_species,lat_direction,latitude,long_direction,longitude,height,tree_species,site,target_species,date,time,adult,stage,num_host_egg,num_bhco_egg,new_parasitism,bhco_swab,host_swab,predated,num_host_hatch,num_bhco_hatch,notes
+314,a4,YEWA,N,54.2807328977519,W,102.952974339861,213,dead plant,outside study area,yes,523,1899-12-31T11:59:00Z,yes,Do Not Monitor (note),3,0,no,no,no,no,0,0,outside search area
+258,a82,LEFL,N,51.5625997524849,W,102.375048342457,149,red-berried elder,dwf,no,608,1899-12-31T13:22:00Z,yes,Unknown (note),NA,NA,no,no,no,no,0,0,"nest too high to reach, ladder not possible"
+50,e94,RWBL,N,53.839493534056,W,99.816784903774,185,ash,pcc,yes,617,1899-12-31T09:10:00Z,yes,Do Not Monitor (note),NA,NA,NA,NA,NA,NA,NA,NA,Too high to monitor
+292,e5,AMRO,N,54.2275881382564,W,101.601854625644,68,NA,outside study area,yes,523,1899-12-31T11:38:00Z,yes,Do Not Monitor (note),4,0,no,no,no,no,0,0,outside search area
+10,j8,GRCA,N,53.368868420864,W,99.739284187645,209,red-berried elder,dwf,yes,528,1899-12-31T12:06:00Z,no,Ready to Lay,0,0,no,no,no,no,0,0,"cup formed, dry, new"
+10,j8,GRCA,N,53.368868420864,W,99.739284187645,209,red-berried elder,dwf,yes,601,1899-12-31T00:00:00Z,n/a,Do Not Monitor (note),NA,NA,NA,NA,NA,NA,0,0,Outside search area
+179,j6,YEWA,N,53.1374418315241,W,103.119348872767,230,cat tail,outside study area,yes,523,1899-12-31T11:38:00Z,no,Do Not Monitor (note),NA,NA,n/a,n/a,n/a,n/a,NA,NA,"ladder needed, outside search area"
+312,e75,YEWA,N,51.7631583848479,W,100.010555098341,0,NA,pcc,yes,613,1899-12-31T13:50:00Z,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,Too high to collect data (More than 5 meters)
+113,e60,YEWA,N,52.3251615243277,W,101.05868909318,164,box elder,pcc,yes,611,1899-12-31T11:35:00Z,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not accessible at all
+124,a160,AMRO,N,51.5828940222311,W,100.993251982429,98,box elder,dwf,yes,620,1899-12-31T10:55:00Z,no,unknown,NA,NA,unknown,no,no,unknown,NA,NA,nest too high to acess
+356,a27,GRCA,N,52.7429314294842,W,101.045262469122,100,cat tail,dwf,yes,603,1899-12-31T09:34:00Z,yes,Unknown (note),NA,NA,n/a,no,no,n/a,NA,NA,"nest very high, would need ladder to monitor"
